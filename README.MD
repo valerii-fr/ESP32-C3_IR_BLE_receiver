@@ -57,3 +57,6 @@ To provide a simple and reliable bridge between an IR receiver and an Android ap
 
 Experimental / Prototype  
 Interfaces and data formats may change.
+
+## Links
+[Android project](https://github.com/valerii-fr/IR-Bridge)

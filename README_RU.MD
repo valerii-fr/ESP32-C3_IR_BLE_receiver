@@ -59,3 +59,5 @@ TSOP IR Receiver -> RMT -> IR durations (Int[]) -> BLE Notify -> Android App
 Experimental / Prototype  
 Интерфейсы и формат данных могут меняться.
 
+## Ссылки
+[Android project](https://github.com/valerii-fr/IR-Bridge)
