@@ -43,7 +43,7 @@ TSOP IR Receiver -> RMT -> IR durations (Int[]) -> BLE Notify -> Android App
 
 ## Usage
 
-1. Connect an IR receiver (TSOP) to a GPIO pin.
+1. Connect an IR receiver (TSOP) to a GPIO pin (set to GPIO 4 by default).
 2. Build and flash the firmware to ESP32-C3.
 3. Launch the Android app and connect via BLE.
 4. Send an IR command using a remote control.
