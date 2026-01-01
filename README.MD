@@ -2,6 +2,15 @@
 
 A minimal firmware for ESP32-C3 designed to capture IR signals and forward them to an Android application over BLE.
 
+## TL;DR how-to
+- Flash the ESP device with the firmware from the ESP repository
+- Download and install the Android APK (available in the GitHub releases)
+- Enable BLE on Android and grant all required permissions (no internet required)
+- Press the “+” button in the app
+- Wait until the BLE connection is established
+- Capture IR commands and save the new remote
+- Swipe on a command or remote card to edit or remove it
+- 
 ## Purpose
 
 The firmware is intentionally limited to a very narrow scope:
